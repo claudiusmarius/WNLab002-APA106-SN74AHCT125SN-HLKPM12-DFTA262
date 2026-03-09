@@ -1,5 +1,7 @@
 # WNLab002-APA106-SN74AHCT125SN-HLKPM12-DFTA262
 
+Vidéo YouTube : https://youtu.be/GKenIghvK34
+
 # WNLab 002 – Trouvailles de laboratoire
 
 Dans cet épisode de la série **WNLab**, je présente plusieurs composants électroniques qui m’ont récemment permis de faire avancer différents projets.
