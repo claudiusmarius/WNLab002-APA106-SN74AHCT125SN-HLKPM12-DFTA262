@@ -34,7 +34,7 @@ Certaines solutions présentées dans cette vidéo sont détaillées dans d'autr
 * DFTA261 – Conversion logique 3.3 V vers 5 V
 * DFTA246 – ESP32-C3 avec écran OLED
 * DFTA215 – Multiplexeur I²C
-* DFTA229 - Alimentation 5V DC
+* DFTA229 - Alimentation 5V 
 
 ## Objectif de la série WNLab
 
